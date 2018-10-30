@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="640,1136" adaptationTest="FitSize">
+  <displayList>
+    <image id="n10_9ih6" name="n10" src="vckm32" fileName="BgHall.jpg" pkg="c2o0n3vx" xy="0,-1" size="640,1136">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <graph id="n4_mcaz" name="n4" xy="178,460" size="284,42" type="rect">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </graph>
+    <text id="n3_mcaz" name="LabelAcc" xy="183,462" size="272,37" input="true" font="FZCuYuan-M03" fontSize="25" autoSize="none" text="">
+      <relation target="n4_mcaz" sidePair="left-left,middle-middle"/>
+    </text>
+    <graph id="n5_9ih6" name="n5" xy="178,526" size="284,42" type="rect">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </graph>
+    <text id="n6_9ih6" name="LabelPass" xy="183,528" size="272,37" input="true" password="true" font="FZCuYuan-M03" fontSize="25" vAlign="middle" autoSize="none" text="123456">
+      <relation target="n5_9ih6" sidePair="left-left,middle-middle"/>
+    </text>
+    <text id="n7_9ih6" name="n7" xy="119,468" size="45,28" fontSize="20" text="账号">
+      <relation target="n4_mcaz" sidePair="middle-middle,right-left"/>
+    </text>
+    <text id="n8_9ih6" name="n8" xy="119,534" size="45,28" fontSize="20" text="密码">
+      <relation target="n5_9ih6" sidePair="middle-middle,right-left"/>
+    </text>
+    <component id="n12_s0pn" name="BtnLogin" src="s0pn9q" fileName="BtnPublicIcon.xml" pkg="ztrv49e8" xy="218,685">
+      <Button title="登陆"/>
+    </component>
+  </displayList>
+</component>

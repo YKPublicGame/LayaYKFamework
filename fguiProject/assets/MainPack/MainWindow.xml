@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="640,1136" designImage="ui://hni88fx89ih66o" adaptationTest="FitSize">
+  <displayList>
+    <image id="n0_9ih6" name="n0" src="vckm32" fileName="BgHall.jpg" pkg="c2o0n3vx" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n15_9ih6" name="n15" src="9ih67m" fileName="01MainUi/logo.png" xy="81,179">
+      <relation target="" sidePair="center-center,top-top"/>
+    </image>
+    <component id="n16_9ih6" name="BtnEnum" src="9ih635" fileName="BtnIcon.xml" pkg="ztrv49e8" xy="211,636" size="203,222">
+      <relation target="" sidePair="center-center,middle-middle"/>
+      <Button icon="ui://hni88fx89ih66f"/>
+    </component>
+    <component id="n17_9ih6" name="BtnWeal" src="9ih635" fileName="BtnIcon.xml" pkg="ztrv49e8" xy="31,705" size="106,99">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+      <Button icon="ui://hni88fx89ih66g"/>
+    </component>
+    <component id="n18_9ih6" name="BtnWXPublic" src="9ih635" fileName="BtnIcon.xml" pkg="ztrv49e8" xy="26,831" size="100,100">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+      <Button icon="ui://hni88fx89ih66d"/>
+    </component>
+    <component id="n19_9ih6" name="BtnChestBox" src="9ih635" fileName="BtnIcon.xml" pkg="ztrv49e8" xy="501,579" size="98,99">
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+      <Button icon="ui://hni88fx89ih666"/>
+    </component>
+    <component id="n20_9ih6" name="BtnGetMoney" src="9ih635" fileName="BtnIcon.xml" pkg="ztrv49e8" xy="501,706" size="100,98">
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+      <Button icon="ui://hni88fx89ih668"/>
+    </component>
+    <component id="n21_9ih6" name="BtnInvite" src="9ih635" fileName="BtnIcon.xml" pkg="ztrv49e8" xy="502,829" size="97,103">
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+      <Button icon="ui://hni88fx89ih66a"/>
+    </component>
+    <image id="n22_9ih6" name="n22" src="9ih66h" fileName="01MainUi/chuangguanduobao.png" xy="225,865">
+      <relation target="n16_9ih6" sidePair="center-center,top-bottom"/>
+    </image>
+    <component id="n23_9ih6" name="BtnFriendMode" src="9ih635" fileName="BtnIcon.xml" pkg="ztrv49e8" xy="437,981" size="79,78">
+      <relation target="n25_9ih6" sidePair="left-left,bottom-bottom"/>
+      <Button icon="ui://hni88fx89ih667"/>
+    </component>
+    <component id="n24_9ih6" name="BtnGoldMode" src="9ih635" fileName="BtnIcon.xml" pkg="ztrv49e8" xy="222,980" size="79,79">
+      <relation target="n26_9ih6" sidePair="left-left,bottom-bottom"/>
+      <Button icon="ui://hni88fx89ih669"/>
+    </component>
+    <component id="n25_9ih6" name="BtnMoneyMode" src="9ih635" fileName="BtnIcon.xml" pkg="ztrv49e8" xy="331,981" size="78,78">
+      <relation target="n24_9ih6" sidePair="left-left,bottom-bottom"/>
+      <Button icon="ui://hni88fx89ih66b"/>
+    </component>
+    <component id="n26_9ih6" name="BtnRankMode" src="9ih635" fileName="BtnIcon.xml" pkg="ztrv49e8" xy="111,980" size="79,79">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+      <Button icon="ui://hni88fx89ih66e"/>
+    </component>
+    <image id="n27_9ih6" name="n27" src="9ih66k" fileName="01MainUi/TextFriendMode.png" xy="449,1079">
+      <relation target="n23_9ih6" sidePair="center-center,top-bottom"/>
+    </image>
+    <image id="n28_9ih6" name="n28" src="9ih66l" fileName="01MainUi/TextGoldMode.png" xy="233,1080">
+      <relation target="n24_9ih6" sidePair="center-center,top-bottom"/>
+    </image>
+    <image id="n29_9ih6" name="n29" src="9ih66m" fileName="01MainUi/TextMoneyMode.png" xy="340,1079">
+      <relation target="n25_9ih6" sidePair="center-center,top-bottom"/>
+    </image>
+    <image id="n30_9ih6" name="n30" src="9ih66n" fileName="01MainUi/TextRankMode.png" xy="121,1079">
+      <relation target="n26_9ih6" sidePair="center-center,top-bottom"/>
+    </image>
+    <component id="n31_9ih6" name="BtnStart" src="9ih635" fileName="BtnIcon.xml" pkg="ztrv49e8" xy="-54,82" size="167,86">
+      <relation target="" sidePair="left-left,top-top"/>
+      <Button icon="ui://hni88fx89ih66c"/>
+    </component>
+    <component id="n32_9ih6" name="n32" src="9ih67n" fileName="NoticeTwoCorm.xml" pkg="ztrv49e8" xy="154,524">
+      <relation target="n15_9ih6" sidePair="center-center,top-bottom"/>
+    </component>
+    <component id="n33_9ih6" name="n33" src="9ih67o" fileName="NoticeOneCorm.xml" pkg="ztrv49e8" xy="18,13">
+      <relation target="" sidePair="left-left,top-top"/>
+    </component>
+  </displayList>
+</component>

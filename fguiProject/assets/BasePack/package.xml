@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ztrv49e8" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="9ih635" name="BtnIcon.xml" path="/" exported="true"/>
+    <image id="9ih63w" name="BtnGreen.png" path="/res/Commonbtn/" exported="true" scale="9grid" scale9grid="31,23,14,13"/>
+    <image id="9ih63x" name="BtnOrange.png" path="/res/Commonbtn/" exported="true" scale="9grid" scale9grid="30,25,14,13"/>
+    <image id="9ih63y" name="BtnRed.png" path="/res/Commonbtn/" exported="true" scale="9grid" scale9grid="34,27,10,12"/>
+    <image id="9ih63z" name="BtnRedType2.png" path="/res/Commonbtn/" exported="true" scale="9grid" scale9grid="36,24,8,10"/>
+    <image id="9ih640" name="BtnType2Gray.png" path="/res/Commonbtn/" exported="true"/>
+    <image id="9ih641" name="BtnType2Red.png" path="/res/Commonbtn/" exported="true"/>
+    <image id="9ih642" name="BtnYellow.png" path="/res/Commonbtn/" exported="true" scale="9grid" scale9grid="34,24,13,18"/>
+    <image id="9ih66j" name="ImgTitle.png" path="/res/other/" exported="true"/>
+    <component id="9ih67o" name="NoticeOneCorm.xml" path="/" exported="true"/>
+    <component id="9ih67n" name="NoticeTwoCorm.xml" path="/" exported="true"/>
+    <image id="9ih664" name="BoardNotice.png" path="/res/other/" exported="true" scale="9grid" scale9grid="43,12,5,8"/>
+    <image id="9ih665" name="BoardNotice2.png" path="/res/other/" exported="true" scale="9grid" scale9grid="38,16,10,8"/>
+    <image id="wvxu7p" name="光圈.png" path="/res/other/" exported="true"/>
+    <component id="wvxu9p" name="PlayerHead.xml" path="/" exported="true"/>
+    <component id="wvxu7q" name="PlayerHeadName.xml" path="/" exported="true"/>
+    <image id="wvxu8j" name="ImgBanker.png" path="/res/other/" exported="true"/>
+    <image id="9ih62k" name="地主.png" path="/res/other/" exported="true"/>
+    <image id="9ih62d" name="图层 2 拷贝 2.png" path="/res/other/" exported="true"/>
+    <component id="wvxu7r" name="BtnIconTitle.xml" path="/" exported="true"/>
+    <component id="pmcd7n" name="IconTitle.xml" path="/" exported="true"/>
+    <image id="9ih66q" name="BoardCommonh1.png" path="/res/" scale="9grid" scale9grid="45,584,9,19"/>
+    <component id="ws879q" name="BtnClick.xml" path="/" exported="true"/>
+    <component id="s0pn9q" name="BtnPublicIcon.xml" path="/" exported="true"/>
+    <image id="s0pn9r" name="兑换金币 拷贝.jpg" path="/res/Commonbtn/"/>
+    <component id="s0pn9s" name="MessageBox.xml" path="/" exported="true"/>
+    <image id="s0pn9t" name="BoardCommon4.png" path="/" exported="true" scale="9grid" scale9grid="19,92,10,94"/>
+    <image id="s0pn9u" name="textTips.png" path="/res/Commonbtn/" exported="true"/>
+    <image id="s0pn9v" name="BtnCloseUnuse.png" path="/res/Commonbtn/" exported="true"/>
+    <image id="s0pn9x" name="BtnCloseGray.png" path="/res/Commonbtn/" exported="true"/>
+  </resources>
+  <publish name="BasePack" path="E:\u3dProject\CHWB\DDZ\client\layaFramework\bin\res\external"/>
+</packageDescription>

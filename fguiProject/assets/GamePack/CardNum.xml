@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="34,40" extention="Label">
+  <displayList>
+    <image id="n32_wvxu" name="n32" src="wvxu78" fileName="00Common/BoardCommon6.png" xy="1,0" size="32,40"/>
+    <loader id="n33_wvxu" name="icon" xy="-1,-5" size="36,50" url="ui://honjxiue9ih63m" align="center" vAlign="middle"/>
+    <text id="n34_wvxu" name="title" xy="1,39" size="32,28" fontSize="20" color="#ffffff" align="center" autoSize="none" text="4"/>
+  </displayList>
+</component>

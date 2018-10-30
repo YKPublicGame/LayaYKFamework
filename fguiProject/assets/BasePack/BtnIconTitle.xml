@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="50,50" extention="Button">
+  <controller name="button" pages="0,up,1,down" selected="0"/>
+  <displayList>
+    <loader id="n0_9ih6" name="icon" xy="0,0" size="50,50" url="ui://ztrv49e89ih63y" align="center" vAlign="middle"/>
+    <loader id="n1_wvxu" name="title" xy="0,0" size="50,50"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="0.90"/>
+</component>

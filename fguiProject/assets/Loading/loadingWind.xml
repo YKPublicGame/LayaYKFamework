@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="640,1136" designImage="ui://c2o0n3vxvckm35">
+  <displayList>
+    <image id="n1_vckm" name="n1" src="vckm32" fileName="BgHall.jpg" xy="0,0">
+      <relation target="" sidePair="center-center,middle-middle"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n2_vckm" name="n2" src="vckm33" fileName="ImgWaiting.png" xy="272,464" pivot="0.5,0.5">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <text id="n3_vckm" name="lablMsg" xy="61,645" size="517,53" font="FZCuYuan-M03" fontSize="35" color="#ffffff" align="center" autoSize="none" text="帮助小贴士，闯关赢现金红包！">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+    <text id="n4_qaib" name="labelProgress" xy="283,570" size="72,39" fontSize="30" color="#ffffff" text="100%">
+      <relation target="n2_vckm" sidePair="center-center,top-bottom"/>
+    </text>
+  </displayList>
+  <transition name="t0" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Rotation" target="n2_vckm" tween="true" startValue="0" endValue="360" duration="24" ease="Linear" repeat="-1"/>
+    <item time="24" type="Rotation" target="n2_vckm" tween="true" startValue="360" ease="Linear" repeat="-1" yoyo="true"/>
+  </transition>
+</component>

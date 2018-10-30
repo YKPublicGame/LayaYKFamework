@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="honjxiue" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="wvxu3o" name="GameMainWindow.xml" path="/" exported="true"/>
+    <image id="wvxu3p" name="个人信息 拷贝.jpg" path="/"/>
+    <image id="wvxu3q" name="密语 拷贝.jpg" path="/"/>
+    <image id="wvxu3r" name="密语邀请 拷贝.jpg" path="/"/>
+    <image id="wvxu3s" name="游戏界面闯关模式 拷贝.jpg" path="/"/>
+    <image id="wvxu3t" name="红包场 拷贝.jpg" path="/"/>
+    <image id="wvxu3u" name="网络中断 拷贝.jpg" path="/"/>
+    <image id="wvxu3v" name="金币场 拷贝.jpg" path="/"/>
+    <image id="wvxu3w" name="HeadFrame1.png" path="/05RankMode/"/>
+    <image id="wvxu3x" name="HeadFrame2.png" path="/05RankMode/"/>
+    <image id="wvxu3y" name="HeadFrame3.png" path="/05RankMode/"/>
+    <image id="wvxu3z" name="HeadFrame4.png" path="/05RankMode/"/>
+    <image id="wvxu40" name="HeadFrame5.png" path="/05RankMode/"/>
+    <image id="wvxu41" name="HeadFrame6.png" path="/05RankMode/"/>
+    <image id="wvxu42" name="HeadFrame7.png" path="/05RankMode/"/>
+    <image id="wvxu43" name="IconStarBlank.png" path="/05RankMode/"/>
+    <image id="wvxu44" name="IconStarFull.png" path="/05RankMode/"/>
+    <image id="wvxu45" name="weixuan.png" path="/05RankMode/"/>
+    <image id="wvxu46" name="yixuan.png" path="/05RankMode/"/>
+    <image id="wvxu47" name="升星成功 拷贝.jpg" path="/05RankMode/"/>
+    <image id="wvxu48" name="排位赛大厅 拷贝.jpg" path="/05RankMode/"/>
+    <image id="wvxu49" name="段位说明 拷贝.jpg" path="/05RankMode/"/>
+    <image id="wvxu4a" name="赛季说明 拷贝.jpg" path="/05RankMode/"/>
+    <image id="wvxu4b" name="ImgProgressBlank.png" path="/04MoneyMode/"/>
+    <image id="wvxu4c" name="ImgProgressFilled.png" path="/04MoneyMode/"/>
+    <image id="wvxu4d" name="ImgProgressLineBlank.png" path="/04MoneyMode/"/>
+    <image id="wvxu4e" name="ImgProgressLineFilled.png" path="/04MoneyMode/"/>
+    <image id="wvxu4f" name="TextMoreBonus.png" path="/04MoneyMode/"/>
+    <image id="wvxu4g" name="TextRank.png" path="/04MoneyMode/"/>
+    <image id="wvxu4h" name="TextSuccesfullUpgrade.png" path="/04MoneyMode/"/>
+    <image id="wvxu4i" name="保存成功 拷贝.jpg" path="/04MoneyMode/"/>
+    <image id="wvxu4j" name="保存成功.jpg" path="/04MoneyMode/"/>
+    <image id="wvxu4k" name="再接再力 拷贝.jpg" path="/04MoneyMode/"/>
+    <image id="wvxu4l" name="再接再力.png" path="/04MoneyMode/"/>
+    <image id="wvxu4m" name="开赛条件 拷贝.jpg" path="/04MoneyMode/"/>
+    <image id="wvxu4n" name="成功晋级 拷贝.jpg" path="/04MoneyMode/"/>
+    <image id="wvxu4o" name="成功晋级.jpg" path="/04MoneyMode/"/>
+    <image id="wvxu4p" name="红包赛大厅 拷贝.jpg" path="/04MoneyMode/"/>
+    <image id="wvxu4q" name="ditu.png" path="/05RankMode/赛季说明/"/>
+    <image id="wvxu4r" name="duanweishuoming.png" path="/05RankMode/赛季说明/"/>
+    <image id="wvxu4s" name="kuang.png" path="/05RankMode/赛季说明/"/>
+    <image id="wvxu4t" name="saijishuoming.png" path="/05RankMode/赛季说明/"/>
+    <image id="wvxu4u" name="ditu.png" path="/05RankMode/段位说明/"/>
+    <image id="wvxu4v" name="duanweishuoming.png" path="/05RankMode/段位说明/"/>
+    <image id="wvxu4w" name="kuang.png" path="/05RankMode/段位说明/"/>
+    <image id="wvxu4x" name="saijishuoming.png" path="/05RankMode/段位说明/"/>
+    <image id="wvxu4y" name="weixuanzhong.png" path="/05RankMode/段位说明/"/>
+    <image id="wvxu4z" name="xuanzhong.png" path="/05RankMode/段位说明/"/>
+    <image id="wvxu50" name="saijiditu.png" path="/05RankMode/排位赛大厅/"/>
+    <image id="wvxu51" name="xiangqing.png" path="/05RankMode/排位赛大厅/"/>
+    <image id="wvxu52" name="xing.png" path="/05RankMode/排位赛大厅/"/>
+    <image id="wvxu53" name="zuanshi.png" path="/05RankMode/排位赛大厅/"/>
+    <image id="wvxu54" name="guangxiao.png" path="/05RankMode/升星成功/"/>
+    <image id="wvxu55" name="heidi.png" path="/05RankMode/升星成功/"/>
+    <image id="wvxu56" name="liangkang.png" path="/05RankMode/升星成功/"/>
+    <image id="wvxu57" name="slice01_01-fs8.png" path="/05RankMode/升星成功/"/>
+    <image id="wvxu58" name="slice02_02-fs8.png" path="/05RankMode/升星成功/"/>
+    <image id="wvxu59" name="slice03_03-fs8.png" path="/05RankMode/升星成功/"/>
+    <image id="wvxu5a" name="slice04_04-fs8.png" path="/05RankMode/升星成功/"/>
+    <image id="wvxu5b" name="slice05_05-fs8.png" path="/05RankMode/升星成功/"/>
+    <image id="wvxu5c" name="slice06_06-fs8.png" path="/05RankMode/升星成功/"/>
+    <image id="wvxu5d" name="slice07_07-fs8.png" path="/05RankMode/升星成功/"/>
+    <image id="wvxu5e" name="BoardG1.png" path="/03GoldMode/"/>
+    <image id="wvxu5f" name="BoardItemFree.png" path="/03GoldMode/"/>
+    <image id="wvxu5g" name="BoardItemSelected.png" path="/03GoldMode/"/>
+    <image id="wvxu5h" name="BtnTextGiveup.png" path="/03GoldMode/"/>
+    <image id="wvxu5i" name="IconGold.png" path="/03GoldMode/"/>
+    <image id="wvxu5j" name="看广告.jpg" path="/03GoldMode/"/>
+    <image id="wvxu5k" name="金币大厅 拷贝.jpg" path="/03GoldMode/"/>
+    <image id="wvxu5l" name="金币失败 拷贝.jpg" path="/03GoldMode/"/>
+    <image id="wvxu5m" name="金币胜利 拷贝.jpg" path="/03GoldMode/"/>
+    <image id="wvxu65" name="BtnTextGiveup.png" path="/01RewardMode/"/>
+    <image id="wvxu66" name="dianjifangqi.png" path="/01RewardMode/"/>
+    <image id="wvxu67" name="ditu (2).png" path="/01RewardMode/"/>
+    <image id="wvxu68" name="ditu (3).png" path="/01RewardMode/"/>
+    <image id="wvxu69" name="ditu.png" path="/01RewardMode/"/>
+    <image id="wvxu6a" name="IconCopperchest.png" path="/01RewardMode/"/>
+    <image id="wvxu6b" name="IconGoldchest.png" path="/01RewardMode/"/>
+    <image id="wvxu6c" name="IconLuxurychest.png" path="/01RewardMode/"/>
+    <image id="wvxu6d" name="IconSilverchest.png" path="/01RewardMode/"/>
+    <image id="wvxu6e" name="IconStageClear.png" path="/01RewardMode/"/>
+    <image id="wvxu6f" name="IconStageLock.png" path="/01RewardMode/"/>
+    <image id="wvxu6g" name="ImgArrow.png" path="/01RewardMode/"/>
+    <image id="wvxu6h" name="ImgDecorateLine.png" path="/01RewardMode/"/>
+    <image id="wvxu6i" name="ImgGetBonusBack.png" path="/01RewardMode/"/>
+    <image id="wvxu6j" name="kuang.png" path="/01RewardMode/"/>
+    <image id="wvxu6k" name="TextGetbonus.png" path="/01RewardMode/"/>
+    <image id="wvxu6l" name="TextGiveup.png" path="/01RewardMode/"/>
+    <image id="wvxu6m" name="TextGrouping.png" path="/01RewardMode/"/>
+    <image id="wvxu6n" name="TextStageClear.png" path="/01RewardMode/"/>
+    <image id="wvxu6o" name="TextStageFail.png" path="/01RewardMode/"/>
+    <image id="wvxu6p" name="yingbaoxiang.png" path="/01RewardMode/"/>
+    <image id="wvxu6q" name="加载 拷贝.jpg" path="/01RewardMode/"/>
+    <image id="wvxu6r" name="复活成功 拷贝.jpg" path="/01RewardMode/"/>
+    <image id="wvxu6s" name="失败 拷贝.jpg" path="/01RewardMode/"/>
+    <image id="wvxu6t" name="恭喜获得 拷贝.jpg" path="/01RewardMode/"/>
+    <image id="wvxu6u" name="继续挑战本关 拷贝.jpg" path="/01RewardMode/"/>
+    <image id="wvxu6v" name="胜利 拷贝.jpg" path="/01RewardMode/"/>
+    <image id="wvxu6w" name="获得金币 拷贝.jpg" path="/01RewardMode/"/>
+    <image id="wvxu6x" name="赢取宝箱.jpg" path="/01RewardMode/"/>
+    <image id="wvxu6y" name="闯关失败  观看广告.jpg" path="/01RewardMode/"/>
+    <image id="wvxu6z" name="闯关失败  重闯第一关 拷贝.jpg" path="/01RewardMode/"/>
+    <image id="wvxu70" name="闯关失败 拷贝.jpg" path="/01RewardMode/"/>
+    <image id="wvxu71" name="闯关成功 拷贝.jpg" path="/01RewardMode/"/>
+    <image id="wvxu72" name="BoardBg.png" path="/00Common/"/>
+    <image id="wvxu73" name="BoardCommon1.png" path="/00Common/"/>
+    <image id="wvxu74" name="BoardCommon2.png" path="/00Common/"/>
+    <image id="wvxu75" name="BoardCommon3.png" path="/00Common/"/>
+    <image id="wvxu76" name="BoardCommon4.png" path="/00Common/"/>
+    <image id="wvxu77" name="BoardCommon5.png" path="/00Common/" scale="9grid" scale9grid="21,18,42,36"/>
+    <image id="wvxu78" name="BoardCommon6.png" path="/00Common/"/>
+    <image id="wvxu79" name="BoardPoint.png" path="/00Common/"/>
+    <image id="wvxu7a" name="BoardTopLose.png" path="/00Common/"/>
+    <image id="wvxu7b" name="BoardTopWin.png" path="/00Common/"/>
+    <image id="wvxu7c" name="BtnChest.png" path="/00Common/"/>
+    <image id="wvxu7d" name="BtnEgg.png" path="/00Common/"/>
+    <image id="wvxu7e" name="BtnFlower.png" path="/00Common/"/>
+    <image id="wvxu7f" name="BtnInvite.png" path="/00Common/"/>
+    <image id="wvxu7g" name="BtnMessage.png" path="/00Common/"/>
+    <image id="wvxu7h" name="BtnOperateRed.png" path="/00Common/" scale="9grid" scale9grid="63,26,9,11"/>
+    <image id="wvxu7i" name="BtnOperateYellow.png" path="/00Common/" scale="9grid" scale9grid="57,19,11,24"/>
+    <image id="wvxu7j" name="BtnOut.png" path="/00Common/"/>
+    <image id="wvxu7k" name="BtnQuickstart.png" path="/00Common/"/>
+    <image id="wvxu7l" name="BtnRing.png" path="/00Common/"/>
+    <image id="wvxu7m" name="BtnStone.png" path="/00Common/"/>
+    <image id="wvxu7n" name="BtnVoice.png" path="/00Common/"/>
+    <image id="wvxu7o" name="Card1.png" path="/00Common/card/"/>
+    <image id="wvxu7p" name="Card10.png" path="/00Common/card/"/>
+    <image id="wvxu7q" name="Card2.png" path="/00Common/card/"/>
+    <image id="wvxu7r" name="Card3.png" path="/00Common/card/"/>
+    <image id="wvxu7s" name="Card4.png" path="/00Common/card/"/>
+    <image id="wvxu7t" name="Card5.png" path="/00Common/card/"/>
+    <image id="wvxu7u" name="Card6.png" path="/00Common/card/"/>
+    <image id="wvxu7v" name="Card7.png" path="/00Common/card/"/>
+    <image id="wvxu7w" name="Card8.png" path="/00Common/card/"/>
+    <image id="wvxu7x" name="Card9.png" path="/00Common/card/"/>
+    <image id="wvxu7y" name="CardBack.png" path="/00Common/card/"/>
+    <image id="wvxu7z" name="CardFront.png" path="/00Common/card/"/>
+    <image id="wvxu80" name="CardJ.png" path="/00Common/card/"/>
+    <image id="wvxu81" name="CardK.png" path="/00Common/card/"/>
+    <image id="wvxu82" name="CardQ.png" path="/00Common/card/"/>
+    <image id="wvxu83" name="CardR1.png" path="/00Common/card/"/>
+    <image id="wvxu84" name="CardR10.png" path="/00Common/card/"/>
+    <image id="wvxu85" name="CardR11.png" path="/00Common/card/"/>
+    <image id="wvxu86" name="CardR12.png" path="/00Common/card/"/>
+    <image id="wvxu87" name="CardR13.png" path="/00Common/card/"/>
+    <image id="wvxu88" name="CardR2.png" path="/00Common/card/"/>
+    <image id="wvxu89" name="CardR3.png" path="/00Common/card/"/>
+    <image id="wvxu8a" name="CardR4.png" path="/00Common/card/"/>
+    <image id="wvxu8b" name="CardR5.png" path="/00Common/card/"/>
+    <image id="wvxu8c" name="CardR6.png" path="/00Common/card/"/>
+    <image id="wvxu8d" name="CardR7.png" path="/00Common/card/"/>
+    <image id="wvxu8e" name="CardR8.png" path="/00Common/card/"/>
+    <image id="wvxu8f" name="CardR9.png" path="/00Common/card/"/>
+    <image id="wvxu8g" name="IconBankerOnCard.png" path="/00Common/"/>
+    <image id="wvxu8h" name="IconNum.png" path="/00Common/"/>
+    <image id="wvxu8i" name="IconRank.png" path="/00Common/"/>
+    <image id="wvxu8k" name="ImgBJoker.png" path="/00Common/card/"/>
+    <image id="wvxu8l" name="ImgBlack.png" path="/00Common/card/"/>
+    <image id="wvxu8m" name="ImgBlock.png" path="/00Common/card/"/>
+    <image id="wvxu8n" name="ImgClub.png" path="/00Common/card/"/>
+    <image id="wvxu8o" name="ImgHeart.png" path="/00Common/card/"/>
+    <image id="wvxu8p" name="ImgLight.png" path="/00Common/"/>
+    <image id="wvxu8q" name="ImgLine.png" path="/00Common/"/>
+    <image id="wvxu8r" name="ImgLine2.png" path="/00Common/"/>
+    <image id="wvxu8s" name="ImgSJoker.png" path="/00Common/card/"/>
+    <image id="wvxu8t" name="PokerLeftBJoker.png" path="/00Common/card/"/>
+    <image id="wvxu8u" name="PokerLeftSJoker.png" path="/00Common/card/"/>
+    <image id="wvxu8v" name="slice11_11.png" path="/00Common/"/>
+    <image id="wvxu8w" name="slice17_17.png" path="/00Common/"/>
+    <image id="wvxu8x" name="TextDo.png" path="/00Common/"/>
+    <image id="wvxu8y" name="TextGet.png" path="/00Common/"/>
+    <image id="wvxu8z" name="TextLose.png" path="/00Common/"/>
+    <image id="wvxu90" name="TextPass.png" path="/00Common/"/>
+    <image id="wvxu91" name="TextPassRob.png" path="/00Common/"/>
+    <image id="wvxu92" name="TextPoint1.png" path="/00Common/"/>
+    <image id="wvxu93" name="TextPoint2.png" path="/00Common/"/>
+    <image id="wvxu94" name="TextRob.png" path="/00Common/"/>
+    <image id="wvxu95" name="TextTimesLose.png" path="/00Common/"/>
+    <image id="wvxu96" name="TextTimesWin.png" path="/00Common/"/>
+    <image id="wvxu97" name="TextTips.png" path="/00Common/"/>
+    <image id="wvxu98" name="TextWin.png" path="/00Common/"/>
+    <image id="wvxu99" name="yuyin.png" path="/00Common/"/>
+    <image id="wvxu9a" name="IconBoy.png" path="/00Common/UserInfo/"/>
+    <image id="wvxu9b" name="IconCst1.png" path="/00Common/UserInfo/"/>
+    <image id="wvxu9c" name="IconCst10.png" path="/00Common/UserInfo/"/>
+    <image id="wvxu9d" name="IconCst11.png" path="/00Common/UserInfo/"/>
+    <image id="wvxu9e" name="IconCst12.png" path="/00Common/UserInfo/"/>
+    <image id="wvxu9f" name="IconCst2.png" path="/00Common/UserInfo/"/>
+    <image id="wvxu9g" name="IconCst3.png" path="/00Common/UserInfo/"/>
+    <image id="wvxu9h" name="IconCst4.png" path="/00Common/UserInfo/"/>
+    <image id="wvxu9i" name="IconCst5.png" path="/00Common/UserInfo/"/>
+    <image id="wvxu9j" name="IconCst6.png" path="/00Common/UserInfo/"/>
+    <image id="wvxu9k" name="IconCst7.png" path="/00Common/UserInfo/"/>
+    <image id="wvxu9l" name="IconCst8.png" path="/00Common/UserInfo/"/>
+    <image id="wvxu9m" name="IconCst9.png" path="/00Common/UserInfo/"/>
+    <image id="wvxu9n" name="IconGirl.png" path="/00Common/UserInfo/"/>
+    <component id="wvxu9o" name="PlayerScore.xml" path="/"/>
+    <component id="wvxu9q" name="TimerCorm.xml" path="/"/>
+    <component id="wvxu9r" name="OutCardNum.xml" path="/"/>
+    <component id="wvxu9s" name="CardNum.xml" path="/"/>
+    <component id="wvxu9t" name="CardMode.xml" path="/" exported="true"/>
+    <font id="wvxu9u" name="blackCardFont.fnt" path="/00Common/card/" exported="true"/>
+    <font id="wvxu9v" name="redCardFont.fnt" path="/00Common/card/" exported="true"/>
+    <component id="wvxu9w" name="lastCardNum.xml" path="/"/>
+    <component id="wvxu9x" name="ActionType.xml" path="/"/>
+    <component id="wvxu9y" name="BtnRed.xml" path="/Btn/" exported="true"/>
+    <component id="wvxu9z" name="BtnYellow.xml" path="/Btn/" exported="true"/>
+    <image id="wvxua0" name="TextPoint3.png" path="/00Common/"/>
+    <image id="wvxua1" name="TextPass2.png" path="/00Common/"/>
+    <image id="wvxua2" name="shengyu.png" path="/00Common/"/>
+    <image id="wvxua3" name="10.png" path="/00Common/Num/"/>
+    <image id="wvxua4" name="2-4.png" path="/00Common/Num/"/>
+    <image id="wvxua5" name="3-3.png" path="/00Common/Num/"/>
+    <image id="wvxua6" name="4.png" path="/00Common/Num/"/>
+    <image id="wvxua7" name="5.png" path="/00Common/Num/"/>
+    <image id="wvxua8" name="6.png" path="/00Common/Num/"/>
+    <image id="wvxua9" name="7.png" path="/00Common/Num/"/>
+    <image id="wvxuaa" name="8.png" path="/00Common/Num/"/>
+    <image id="wvxuab" name="9.png" path="/00Common/Num/"/>
+    <image id="wvxuac" name="A.png" path="/00Common/Num/"/>
+    <image id="wvxuad" name="J.png" path="/00Common/Num/"/>
+    <image id="wvxuae" name="K.png" path="/00Common/Num/"/>
+    <image id="wvxuaf" name="Q.png" path="/00Common/Num/"/>
+    <image id="wvxuag" name="大 王.png" path="/00Common/Num/"/>
+    <image id="wvxuah" name="小 王.png" path="/00Common/Num/"/>
+    <image id="pmcdai" name="IconGuest.png" path="/00Common/"/>
+    <image id="pmcdaj" name="TextLeave.png" path="/00Common/"/>
+    <image id="pmcdak" name="TextReady.png" path="/00Common/"/>
+  </resources>
+  <publish name="GamePack"/>
+</packageDescription>

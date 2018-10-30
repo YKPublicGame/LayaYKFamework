@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="85,42" extention="Label">
+  <controller name="c1" pages="0,无,1,不抢,2,抢地主,3,叫地主,4,1分,5,2分,6,3分,7,不出,8,不叫" selected="0"/>
+  <displayList>
+    <loader id="n50_wvxu" name="icon" xy="0,-3" size="85,50" url="ui://honjxiue9ih62a" align="center"/>
+    <image id="n51_pmcd" name="n51" src="wvxu8y" fileName="00Common/TextGet.png" xy="-6,3">
+      <gearDisplay controller="c1" pages="3"/>
+    </image>
+    <image id="n52_pmcd" name="n52" src="wvxu90" fileName="00Common/TextPass.png" xy="7,4">
+      <gearDisplay controller="c1" pages="7"/>
+    </image>
+    <image id="n53_pmcd" name="n53" src="wvxua1" fileName="00Common/TextPass2.png" xy="7,3">
+      <gearDisplay controller="c1" pages="8"/>
+    </image>
+    <image id="n54_pmcd" name="n54" src="wvxu91" fileName="00Common/TextPassRob.png" xy="6,2">
+      <gearDisplay controller="c1" pages="1"/>
+    </image>
+    <image id="n55_pmcd" name="n55" src="wvxu92" fileName="00Common/TextPoint1.png" xy="16,2">
+      <gearDisplay controller="c1" pages="4"/>
+    </image>
+    <image id="n56_pmcd" name="n56" src="wvxu93" fileName="00Common/TextPoint2.png" xy="14,2">
+      <gearDisplay controller="c1" pages="5"/>
+    </image>
+    <image id="n57_pmcd" name="n57" src="wvxua0" fileName="00Common/TextPoint3.png" xy="14,2">
+      <gearDisplay controller="c1" pages="6"/>
+    </image>
+    <image id="n58_pmcd" name="n58" src="wvxu94" fileName="00Common/TextRob.png" xy="-7,4">
+      <gearDisplay controller="c1" pages="2"/>
+    </image>
+  </displayList>
+</component>

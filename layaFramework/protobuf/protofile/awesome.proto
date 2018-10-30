@@ -1,0 +1,146 @@
+// awesome.proto
+package netpack;
+syntax = "proto2";
+
+
+message test {
+	optional string str = 1;
+
+}
+message packbase {
+	optional int32 cmd = 1;
+	optional int32 msgid = 2;
+	optional int32 errorcode = 3;
+	optional bytes contentBuff = 4;
+
+}
+message UserData {
+	optional int32 roleId = 1;
+	optional string nickName = 2;
+	optional string headUrl = 3;
+	optional int32 sex = 4;
+	optional string signature = 5;
+	optional int32 constellation = 6;
+	optional string county = 7;
+	optional string city = 8;
+	optional string weChat = 9;
+	optional int32 gold = 10;
+	optional int32 diamond = 11;
+	optional int32 playerNum = 12;
+	optional int32 winNum = 13;
+	optional string awardNum = 14;
+
+}
+message loginReq {
+	optional string token = 1;
+	optional int32 roleid = 2;
+
+}
+message loginResp {
+	optional UserData roleinfo = 1;
+
+}
+message tickOutEvent {
+	optional int32 tickType = 1;
+
+}
+message ParamConfig {
+	optional string name = 1;
+	optional int32 value = 2;
+
+}
+message PrivateRoomInfo {
+	repeated ParamConfig param = 1;
+	optional int32 roomid = 2;
+	optional int32 ownerid = 3;
+	optional int32 dealNum = 4;
+	optional int32 roleNum = 5;
+	optional int32 gameid = 6;
+
+}
+message roomIdData {
+	optional int32 roomId = 1;
+
+}
+message PrivateDeskInfoReply {
+	optional int32 dealId = 1;
+	optional int32 state = 2;
+	optional int32 banker = 3;
+	repeated MatchPlayer matchPlayers = 4;
+	optional int32 curSeat = 5;
+	repeated int32 lowCards = 6;
+	optional int32 nowMultiple = 7;
+	repeated OpEvent opInfos = 8;
+	optional int32 dzState = 9;
+	optional PrivateRoomInfo roomInfo = 10;
+
+}
+message MatchPlayer {
+	optional int32 seat = 1;
+	optional int32 score = 2;
+	repeated int32 cards = 3;
+	optional int32 cardsNum = 4;
+	optional bool isDZ = 5;
+	optional int32 boomNums = 6;
+	repeated int32 outCards = 7;
+	optional UserData userData = 8;
+	optional int32 state = 9;
+
+}
+message CallOpInfo {
+	optional int32 seat = 1;
+	optional int32 value = 2;
+
+}
+message OpReq {
+	optional int32 weaveKind = 1;
+	optional int32 value = 2;
+	repeated int32 cards = 3;
+
+}
+message OpEvent {
+	optional int32 weaveKind = 1;
+	optional int32 value = 2;
+	optional int32 seat = 3;
+	repeated int32 cards = 4;
+
+}
+message GameStartEvent {
+	repeated MatchPlayer matchPlayers = 1;
+	optional int32 curSeat = 2;
+	optional int32 dzState = 3;
+	repeated int32 lowCards = 4;
+	optional int32 laizIndex = 5;
+
+}
+message opData {
+	optional int32 state = 1;
+
+}
+message DissRoleRep {
+	optional int32 id = 1;
+	optional string nickname = 2;
+	optional int32 agree = 3;
+	optional bool suggest = 4;
+
+}
+message DissRoomData {
+	repeated DissRoleRep roles = 1;
+	optional int32 state = 2;
+	optional int32 endtime = 3;
+	optional int32 type = 4;
+
+}
+message GameOverPlayerData {
+	optional int32 seat = 1;
+	repeated int32 cards = 2;
+	optional int32 curScore = 3;
+	optional int32 score = 4;
+	optional int32 boom = 5;
+	optional int32 overState = 6;
+
+}
+message ParamConfigList {
+	repeated ParamConfig datas = 1;
+
+}

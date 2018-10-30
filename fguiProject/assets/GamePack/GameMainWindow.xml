@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="640,1136" designImage="ui://honjxiuewvxu3v" designImageAlpha="15" adaptationTest="FitSize">
+  <controller name="state" pages="" selected="-1"/>
+  <displayList>
+    <image id="n4_wvxu" name="n4" src="vckm32" fileName="BgHall.jpg" pkg="c2o0n3vx" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n1_jby9" name="n1" src="9ih66j" fileName="res/other/ImgTitle.png" pkg="ztrv49e8" xy="28,73">
+      <relation target="" sidePair="left-left,top-top"/>
+    </image>
+    <component id="n2_jby9" name="n2" src="9ih67o" fileName="NoticeOneCorm.xml" pkg="ztrv49e8" xy="14,18">
+      <relation target="" sidePair="left-left,top-top"/>
+    </component>
+    <component id="n3_jby9" name="BtnBack" src="9ih635" fileName="BtnIcon.xml" pkg="ztrv49e8" xy="552,44">
+      <relation target="" sidePair="right-right,top-top"/>
+      <Button icon="ui://honjxiuewvxu7j"/>
+    </component>
+    <component id="n6_wvxu" name="Score3" src="wvxu9o" fileName="PlayerScore.xml" xy="10,148">
+      <gearDisplay controller="state" pages="1"/>
+      <relation target="n11_wvxu" sidePair="center-center,bottom-top"/>
+    </component>
+    <component id="n8_wvxu" name="Score2" src="wvxu9o" fileName="PlayerScore.xml" xy="494,149">
+      <gearDisplay controller="state" pages="1"/>
+      <relation target="n10_wvxu" sidePair="center-center,bottom-top"/>
+    </component>
+    <component id="n9_wvxu" name="Score1" src="wvxu9o" fileName="PlayerScore.xml" xy="15,628">
+      <gearDisplay controller="state" pages="1"/>
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </component>
+    <list id="n41_wvxu" name="HandCardTop" xy="1,755" size="638,188" layout="row" lineGap="-100" colGap="-70" defaultItem="ui://honjxiuewvxu9t" autoItemSize="false" align="center" vAlign="middle">
+      <relation target="" sidePair="width-width,bottom-bottom"/>
+    </list>
+    <list id="n42_wvxu" name="HandCardBottom" xy="-1,865" size="638,188" layout="row" lineGap="-100" colGap="-70" defaultItem="ui://honjxiuewvxu9t" align="center" vAlign="middle">
+      <relation target="" sidePair="width-width,bottom-bottom"/>
+    </list>
+    <component id="n10_wvxu" name="PlayerHead2" src="wvxu7q" fileName="PlayerHeadName.xml" pkg="ztrv49e8" xy="517,197">
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+    <component id="n11_wvxu" name="PlayerHead3" src="wvxu7q" fileName="PlayerHeadName.xml" pkg="ztrv49e8" xy="34,196">
+      <relation target="" sidePair="left-left,top-top"/>
+    </component>
+    <component id="n12_wvxu" name="PlayerHead1" src="wvxu7q" fileName="PlayerHeadName.xml" pkg="ztrv49e8" xy="17,941">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </component>
+    <component id="n13_wvxu" name="Btn1Fen" src="wvxu9y" fileName="Btn/BtnRed.xml" xy="24,679" group="n18_wvxu">
+      <Button icon="ui://honjxiuewvxu92"/>
+    </component>
+    <component id="n14_wvxu" name="Btn2Fen" src="wvxu9y" fileName="Btn/BtnRed.xml" xy="179,679" group="n18_wvxu">
+      <Button icon="ui://honjxiuewvxu93"/>
+    </component>
+    <component id="n15_wvxu" name="Btn3Fen" src="wvxu9y" fileName="Btn/BtnRed.xml" xy="334,679" group="n18_wvxu">
+      <Button icon="ui://honjxiuewvxua0"/>
+    </component>
+    <component id="n16_wvxu" name="Btn0Fen" src="wvxu9y" fileName="Btn/BtnRed.xml" xy="489,679" group="n18_wvxu">
+      <Button icon="ui://honjxiuewvxua1"/>
+    </component>
+    <group id="n18_wvxu" name="ActionCllFen" xy="24,679" size="592,72" advanced="true" collapsed="true">
+      <gearDisplay controller="state" pages="1"/>
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </group>
+    <component id="n19_wvxu" name="BtnNotOut" src="wvxu9y" fileName="Btn/BtnRed.xml" xy="19,679" group="n22_wvxu">
+      <Button icon="ui://honjxiuewvxu90"/>
+    </component>
+    <component id="n20_wvxu" name="BtnOut" src="wvxu9z" fileName="Btn/BtnYellow.xml" xy="493,679" group="n22_wvxu">
+      <Button icon="ui://honjxiuewvxu8x"/>
+    </component>
+    <component id="n21_wvxu" name="BtnTips" src="wvxu9y" fileName="Btn/BtnRed.xml" xy="256,679" group="n22_wvxu">
+      <Button icon="ui://honjxiuewvxu97"/>
+    </component>
+    <group id="n22_wvxu" name="ActionOut" xy="19,679" size="601,72" advanced="true" collapsed="true">
+      <gearDisplay controller="state" pages="1"/>
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </group>
+    <component id="n31_wvxu" name="CardOutNum" src="wvxu9r" fileName="OutCardNum.xml" xy="10,1049">
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </component>
+    <component id="n37_wvxu" name="PlayerCardNum3" src="wvxu9w" fileName="lastCardNum.xml" xy="137,213">
+      <relation target="n11_wvxu" sidePair="left-left,middle-middle"/>
+    </component>
+    <component id="n38_wvxu" name="PlayerCardNum2" src="wvxu9w" fileName="lastCardNum.xml" xy="460,213">
+      <relation target="n10_wvxu" sidePair="left-left,middle-middle"/>
+    </component>
+    <component id="n39_wvxu" name="PlayerCardNum1" src="wvxu9w" fileName="lastCardNum.xml" xy="1,1138">
+      <relation target="n12_wvxu" sidePair="left-left,top-top"/>
+    </component>
+    <component id="n40_wvxu" name="RankNum" src="wvxu9o" fileName="PlayerScore.xml" xy="15,584">
+      <gearDisplay controller="state" pages="1"/>
+      <relation target="n9_wvxu" sidePair="left-left,bottom-bottom"/>
+    </component>
+    <list id="n43_wvxu" name="OutCard3" xy="4,308" size="617,418" scale="0.5,0.5" layout="flow_hz" overflow="hidden" lineGap="-80" colGap="-70" defaultItem="ui://honjxiuewvxu9t">
+      <relation target="n11_wvxu" sidePair="left-left,top-bottom"/>
+    </list>
+    <list id="n44_wvxu" name="OutCard2" xy="327,309" size="617,416" scale="0.5,0.5" layout="flow_hz" overflow="hidden" lineGap="-80" colGap="-70" defaultItem="ui://honjxiuewvxu9t" align="right">
+      <relation target="n10_wvxu" sidePair="right-right,top-bottom"/>
+    </list>
+    <list id="n45_wvxu" name="OutCard1" xy="-82,439" pivot="0.5,0.5" size="946,316" scale="0.5,0.5" layout="flow_hz" overflow="hidden" lineGap="-80" colGap="-70" defaultItem="ui://honjxiuewvxu9t" align="center" vAlign="bottom">
+      <relation target="n12_wvxu" sidePair="left-left,bottom-top"/>
+    </list>
+    <component id="n27_wvxu" name="timer" src="wvxu9q" fileName="TimerCorm.xml" xy="-165,600" pivot="0.5,0.5">
+      <gearDisplay controller="state" pages="1"/>
+    </component>
+    <graph id="n46_wvxu" name="TimerPos2" xy="520,290" pivot="0.5,0.5" size="77,40" visible="false" type="rect" fillColor="#ffff0000">
+      <relation target="n10_wvxu" sidePair="center-center,top-bottom"/>
+    </graph>
+    <graph id="n47_wvxu" name="TimerPos3" xy="38,290" pivot="0.5,0.5" size="77,40" visible="false" type="rect" fillColor="#ffff0000">
+      <relation target="n11_wvxu" sidePair="center-center,top-bottom"/>
+    </graph>
+    <graph id="n48_wvxu" name="TimerPos1" xy="304,610" pivot="0.5,0.5" size="77,40" visible="false" type="rect" fillColor="#ffff0000">
+      <relation target="n22_wvxu" sidePair="center-center,top-top"/>
+    </graph>
+    <component id="n49_wvxu" name="PlayerState2" src="wvxu9x" fileName="ActionType.xml" xy="520,289" pivot="0.5,0.5">
+      <relation target="n10_wvxu" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n50_wvxu" name="PlayerState3" src="wvxu9x" fileName="ActionType.xml" xy="38,290" pivot="0.5,0.5">
+      <relation target="n10_wvxu" sidePair="center-center,middle-middle"/>
+      <Label icon="ui://honjxiue9ih61k"/>
+    </component>
+    <component id="n51_wvxu" name="PlayerState1" src="wvxu9x" fileName="ActionType.xml" xy="305,620" pivot="0.5,0.5">
+      <relation target="n10_wvxu" sidePair="center-center,middle-middle"/>
+      <Label icon="ui://honjxiue9ih61k"/>
+    </component>
+  </displayList>
+</component>

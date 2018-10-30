@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="640,1136" designImage="ui://c2o0n3vxvckm35">
+  <controller name="c1" pages="0,显示,1,不显示" selected="0"/>
+  <displayList>
+    <graph id="n1_vckm" name="blackBG" xy="0,0" size="640,1136" alpha="0.6" type="rect" fillColor="#ff000000">
+      <gearDisplay controller="c1" pages="0"/>
+      <relation target="" sidePair="width-width,height-height"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </graph>
+    <image id="n2_vckm" name="sprWait" src="vckm33" fileName="ImgWaiting.png" xy="272,464" pivot="0.5,0.5">
+      <gearDisplay controller="c1" pages="0"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <text id="n3_vckm" name="lablMsg" xy="64,574" size="509,45" font="FZCuYuan-M03" fontSize="35" color="#ffffff" align="center" vAlign="middle" autoSize="height" text="测试">
+      <gearDisplay controller="c1" pages="0"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+  </displayList>
+  <transition name="t0" autoPlay="true" autoPlayRepeat="-1">
+    <item time="0" type="Rotation" target="n2_vckm" tween="true" startValue="0" endValue="360" duration="24" ease="Linear" repeat="-1"/>
+    <item time="24" type="Rotation" target="n2_vckm" tween="true" startValue="360" ease="Linear" repeat="-1" yoyo="true"/>
+  </transition>
+</component>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="640,1136" designImage="ui://hni88fx8wvxu5z" adaptationTest="FitSize">
+  <displayList>
+    <component id="n0_jb2b" name="n0" src="pmcd7n" fileName="IconTitle.xml" pkg="ztrv49e8" xy="38,264" size="564,608">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <component id="n1_pi7i" name="BtnCteateRoom" src="ws879q" fileName="BtnClick.xml" pkg="ztrv49e8" xy="211,751" size="220,75">
+      <relation target="n0_jb2b" sidePair="center-center,bottom-bottom"/>
+      <Button title="创建房间" titleFontSize="40"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="500,400" extention="Label" designImageAlpha="100">
+  <displayList>
+    <image id="n4_jb2b" name="n4" src="9ih66q" fileName="res/BoardCommonh1.png" xy="0,0" size="500,400">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <loader id="n6_jb2b" name="icon" xy="52,19" size="393,77" url="ui://hni88fx8wvxu5x" align="center" vAlign="middle">
+      <relation target="" sidePair="width-width,top-top"/>
+    </loader>
+  </displayList>
+</component>

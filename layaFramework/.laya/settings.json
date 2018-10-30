@@ -1,0 +1,15 @@
+{
+    "typescript.format.placeOpenBraceOnNewLineForFunctions": true,
+    "typescript.format.placeOpenBraceOnNewLineForControlBlocks": true,
+    "[typescript]": {
+        
+    },
+    // "files.exclude": {
+    //     "*.meta": true, 
+    //     "*.settings": true,        
+    //     "**/*.meta": true
+    // },
+    "workbench.colorTheme": "eppz!",
+    "workbench.iconTheme": "vscode-icons",
+    "files.autoSave": "onFocusChange"
+}

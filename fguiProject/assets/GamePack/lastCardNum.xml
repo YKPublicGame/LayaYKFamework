@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="39,59" extention="Label">
+  <displayList>
+    <image id="n37_wvxu" name="n37" src="wvxu7y" fileName="00Common/card/CardBack.png" xy="0,0" size="42,60"/>
+    <text id="n38_wvxu" name="title" xy="2,11" size="39,39" fontSize="30" color="#ffffff" align="center" autoSize="none" text="0"/>
+  </displayList>
+</component>

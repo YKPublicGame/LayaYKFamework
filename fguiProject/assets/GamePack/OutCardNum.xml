@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="623,73" designImage="ui://honjxiuewvxu3v" designImageOffsetX="-10" designImageOffsetY="-1050">
+  <displayList>
+    <image id="n31_wvxu" name="n31" src="wvxu77" fileName="00Common/BoardCommon5.png" xy="0,0" size="623,73"/>
+    <image id="n29_wvxu" name="n29" src="wvxua2" fileName="00Common/shengyu.png" xy="5,11"/>
+    <image id="n30_wvxu" name="n30" src="wvxu8w" fileName="00Common/slice17_17.png" xy="561,3"/>
+    <list id="n33_wvxu" name="n33" xy="34,7" size="531,62" layout="row" overflow="scroll" colGap="1" defaultItem="ui://honjxiuewvxu9s">
+      <item title="0" icon="ui://honjxiuewvxuag"/>
+      <item title="0" icon="ui://honjxiuewvxuah"/>
+      <item icon="ui://honjxiuewvxua4"/>
+      <item icon="ui://honjxiuewvxuac"/>
+      <item icon="ui://honjxiuewvxuae"/>
+      <item icon="ui://honjxiuewvxuaf"/>
+      <item icon="ui://honjxiuewvxuad"/>
+      <item icon="ui://honjxiuewvxua3"/>
+      <item icon="ui://honjxiuewvxuab"/>
+      <item icon="ui://honjxiuewvxuaa"/>
+      <item icon="ui://honjxiuewvxua9"/>
+      <item icon="ui://honjxiuewvxua8"/>
+      <item icon="ui://honjxiuewvxua7"/>
+      <item icon="ui://honjxiuewvxua6"/>
+      <item icon="ui://honjxiuewvxua5"/>
+    </list>
+  </displayList>
+</component>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="c2o0n3vx" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="vckm32" name="BgHall.jpg" path="/" exported="true" scale="" qualityOption="source" atlas="alone_npot"/>
+    <image id="vckm33" name="ImgWaiting.png" path="/" exported="true"/>
+    <component id="vckm34" name="loadingWind.xml" path="/" exported="true"/>
+    <image id="vckm35" name="加载.jpg" path="/"/>
+    <component id="qaib36" name="waitWind.xml" path="/" exported="true"/>
+  </resources>
+  <publish name="Loading" path="E:\u3dProject\CHWB\DDZ\client\layaFramework\bin\res\source"/>
+</packageDescription>

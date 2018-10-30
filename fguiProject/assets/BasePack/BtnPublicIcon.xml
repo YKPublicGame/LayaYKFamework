@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="206,80" extention="Button">
+  <displayList>
+    <loader id="n0_s0pn" name="icon" xy="0,0" size="206,80" url="ui://ztrv49e89ih63y" fill="scaleFree">
+      <relation target="" sidePair="width-width,height-height"/>
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </loader>
+    <text id="n1_s0pn" name="title" xy="9,7" size="184,54" fontSize="35" color="#ffffff" align="center" vAlign="middle" leading="0" letterSpacing="3" autoSize="shrink" text="兑换">
+      <relation target="n0_s0pn" sidePair="width-width,height-height"/>
+      <relation target="n0_s0pn" sidePair="center-center,middle-middle"/>
+    </text>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="0.90"/>
+</component>

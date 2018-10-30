@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="126,188">
+  <controller name="back" pages="0,back,1,front" selected="1"/>
+  <controller name="hua" pages="0,黑,1,红,2,梅,3,方,4,小王,5,大王" selected="4"/>
+  <displayList>
+    <image id="n1_wvxu" name="n1" src="wvxu7z" fileName="00Common/card/CardFront.png" xy="0,1">
+      <gearDisplay controller="back" pages="0,1"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n2_wvxu" name="blackNum" xy="8,8" size="25,131" font="ui://honjxiuewvxu9u" fontSize="20" text="e">
+      <gearDisplay controller="hua" pages="0,2,4"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <text id="n4_wvxu" name="redNum" xy="8,8" size="26,131" font="ui://honjxiuewvxu9v" fontSize="20" text="e">
+      <gearDisplay controller="hua" pages="1,3,5"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <image id="n5_wvxu" name="n5" src="wvxu8l" fileName="00Common/card/ImgBlack.png" xy="9,73">
+      <gearDisplay controller="hua" pages="0"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n7_wvxu" name="n7" src="wvxu8o" fileName="00Common/card/ImgHeart.png" xy="9,74">
+      <gearDisplay controller="hua" pages="1"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n8_wvxu" name="n8" src="wvxu8n" fileName="00Common/card/ImgClub.png" xy="11,71">
+      <gearDisplay controller="hua" pages="2"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n9_wvxu" name="n9" src="wvxu8m" fileName="00Common/card/ImgBlock.png" xy="5,73">
+      <gearDisplay controller="hua" pages="3"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n10_wvxu" name="n10" src="wvxu8k" fileName="00Common/card/ImgBJoker.png" xy="34,47">
+      <gearDisplay controller="hua" pages="5"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n11_wvxu" name="n11" src="wvxu8s" fileName="00Common/card/ImgSJoker.png" xy="33,48">
+      <gearDisplay controller="hua" pages="4"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n0_wvxu" name="n0" src="wvxu7y" fileName="00Common/card/CardBack.png" xy="0,0" visible="false">
+      <gearDisplay controller="back" pages="0"/>
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+  </displayList>
+</component>

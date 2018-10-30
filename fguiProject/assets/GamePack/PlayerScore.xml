@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="136,40" extention="Label">
+  <controller name="type" pages="0,分,1,排名,4,金币" selected="0"/>
+  <displayList>
+    <image id="n6_wvxu" name="n6" src="wvxu8v" fileName="00Common/slice11_11.png" xy="0,0"/>
+    <image id="n5_wvxu" name="n5" src="wvxu8h" fileName="00Common/IconNum.png" xy="1,1">
+      <gearDisplay controller="type" pages="0"/>
+    </image>
+    <text id="n7_wvxu" name="title" xy="43,1" size="90,41" fontSize="30" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="999"/>
+    <image id="n8_wvxu" name="n8" src="wvxu8i" fileName="00Common/IconRank.png" xy="0,1">
+      <gearDisplay controller="type" pages="1"/>
+    </image>
+    <image id="n9_wvxu" name="n9" src="9ih62d" fileName="res/other/图层 2 拷贝 2.png" pkg="ztrv49e8" xy="0,0">
+      <gearDisplay controller="type" pages="4"/>
+    </image>
+  </displayList>
+</component>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="640,1136" designImage="ui://ztrv49e8s0pn9r" designImageAlpha="34" adaptationTest="FitSize">
+  <controller name="stateCtrl" pages="0,无,1,确定,2,确定和取消" selected="0"/>
+  <displayList>
+    <image id="n2_s0pn" name="n2" src="s0pn9t" fileName="BoardCommon4.png" xy="36,385" size="569,366">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </image>
+    <component id="n1_s0pn" name="BtnOK" src="s0pn9q" fileName="BtnPublicIcon.xml" xy="337,636">
+      <gearDisplay controller="stateCtrl" pages="2"/>
+      <relation target="n2_s0pn" sidePair="left-center,bottom-bottom"/>
+      <Button title="好的" icon="ui://ztrv49e89ih63y"/>
+    </component>
+    <component id="n3_s0pn" name="BtnCancel" src="s0pn9q" fileName="BtnPublicIcon.xml" xy="97,637">
+      <gearDisplay controller="stateCtrl" pages="2"/>
+      <relation target="n2_s0pn" sidePair="right-center,bottom-bottom"/>
+      <Button title="取消" icon="ui://ztrv49e89ih63w"/>
+    </component>
+    <component id="n4_s0pn" name="BtnConfirm" src="s0pn9q" fileName="BtnPublicIcon.xml" xy="203,636">
+      <gearDisplay controller="stateCtrl" pages="1"/>
+      <relation target="n2_s0pn" sidePair="center-center,top-top"/>
+      <Button title="确定" icon="ui://ztrv49e89ih642"/>
+    </component>
+    <image id="n5_s0pn" name="n5" src="s0pn9u" fileName="res/Commonbtn/textTips.png" xy="220,408">
+      <relation target="n2_s0pn" sidePair="top-top,center-center"/>
+    </image>
+    <component id="n7_s0pn" name="BtnClose" src="9ih635" fileName="BtnIcon.xml" xy="548,409" size="33,33">
+      <gearDisplay controller="stateCtrl" pages="0"/>
+      <relation target="n2_s0pn" sidePair="right-right,top-top"/>
+      <Button icon="ui://ztrv49e8s0pn9x"/>
+    </component>
+    <text id="n8_s0pn" name="labelMsg" xy="105,494" size="426,122" fontSize="30" color="#4e4e4e" align="center" vAlign="middle" autoSize="none" text="兑换金币500兑换金币500兑换金币500兑">
+      <relation target="n2_s0pn" sidePair="center-center,middle-middle"/>
+    </text>
+  </displayList>
+</component>

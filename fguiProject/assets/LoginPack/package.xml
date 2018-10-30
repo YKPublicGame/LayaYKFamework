@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="hurhtpu5" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="mcaz0" name="LoginWindow.xml" path="/" exported="true"/>
+    <component id="9ih61" name="BtnTestCorm.xml" path="/"/>
+  </resources>
+  <publish name="LoginPack" path="E:\u3dProject\CHWB\DDZ\client\layaFramework\bin\res\external"/>
+</packageDescription>

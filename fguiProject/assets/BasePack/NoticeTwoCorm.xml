@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="370,45">
+  <displayList>
+    <image id="n32_9ih6" name="n32" src="9ih665" fileName="res/other/BoardNotice2.png" xy="0,0" size="375,45"/>
+    <text id="n33_9ih6" name="title" xy="41,8" size="312,30" font="FZCuYuan-M03" fontSize="22" color="#ffffff" text="今天已经有99999人领取了红包">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+  </displayList>
+</component>

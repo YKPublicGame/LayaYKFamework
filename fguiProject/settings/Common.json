@@ -1,0 +1,15 @@
+{
+	"buttonClickSound":"",
+	"colorScheme":["自定义颜色 #FF0000"],
+	"font":"FZCuYuan-M03",
+	"fontScheme":["默认字体","粗 FZCuYuan-M03","细 ZHSRXT-GBK"],
+	"fontSize":20,
+	"fontSizeScheme":["自定义字体大小 30"],
+	"scrollBars":{
+		"defaultDisplay":"visible",
+		"horizontal":"",
+		"vertical":""
+	},
+	"textColor":"#000000",
+	"tipsRes":""
+}

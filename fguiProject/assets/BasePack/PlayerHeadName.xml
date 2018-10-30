@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="86,120" extention="Button">
+  <controller name="showName" pages="0,notName,1,showName" selected="0"/>
+  <controller name="banker" pages="0,not,1,banker" selected="0"/>
+  <displayList>
+    <component id="n0_wvxu" name="head" src="wvxu9p" fileName="PlayerHead.xml" xy="0,0">
+      <Button icon="ui://honjxiuepmcdai"/>
+    </component>
+    <text id="n1_wvxu" name="name" xy="-29,90" size="145,28" fontSize="20" color="#ffffff" align="center" autoSize="none" text="名字最多七个字哈哈">
+      <gearDisplay controller="showName" pages="1"/>
+    </text>
+    <image id="n2_wvxu" name="n2" src="wvxu7p" fileName="res/other/光圈.png" xy="-3,-3" size="90,90"/>
+    <image id="n3_wvxu" name="n3" src="wvxu8j" fileName="res/other/ImgBanker.png" xy="11,-35">
+      <gearDisplay controller="banker" pages="1"/>
+    </image>
+    <image id="n4_wvxu" name="n4" src="9ih62k" fileName="res/other/地主.png" xy="2,49">
+      <gearDisplay controller="banker" pages="1"/>
+    </image>
+  </displayList>
+  <Button/>
+</component>

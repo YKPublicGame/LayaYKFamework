@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="hni88fx8" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="mcaz1" name="MainWindow.xml" path="/" exported="true"/>
+    <image id="9ih63w" name="BtnClose.png" path="/00HallCommon/"/>
+    <image id="9ih64e" name="封面.jpg" path="/"/>
+    <image id="9ih64f" name="BgPublic.png" path="/06PublicNum/"/>
+    <image id="9ih64g" name="ImgContent1.png" path="/06PublicNum/"/>
+    <image id="9ih64h" name="ImgContent2.png" path="/06PublicNum/"/>
+    <image id="9ih64i" name="公众号 拷贝.jpg" path="/06PublicNum/"/>
+    <image id="9ih64j" name="公众号.png" path="/06PublicNum/"/>
+    <image id="9ih64k" name="公众号领取 拷贝.jpg" path="/06PublicNum/"/>
+    <image id="9ih64l" name="公众号领取.png" path="/06PublicNum/"/>
+    <image id="9ih64m" name="BgMore.png" path="/05MoreOption/"/>
+    <image id="9ih64n" name="BtnAnoumce.png" path="/05MoreOption/"/>
+    <image id="9ih64o" name="BtnArrowDown.png" path="/05MoreOption/"/>
+    <image id="9ih64p" name="BtnArrowUp.png" path="/05MoreOption/"/>
+    <image id="9ih64q" name="BtnRank.png" path="/05MoreOption/"/>
+    <image id="9ih64r" name="BtnShare.png" path="/05MoreOption/"/>
+    <image id="9ih64s" name="BtnWebChat.png" path="/05MoreOption/"/>
+    <image id="9ih64t" name="IconGolde.png" path="/05MoreOption/"/>
+    <image id="9ih64u" name="IconLocation.png" path="/05MoreOption/"/>
+    <image id="9ih64v" name="IconMessageread.png" path="/05MoreOption/"/>
+    <image id="9ih64w" name="IconMessageUnread.png" path="/05MoreOption/"/>
+    <image id="9ih64x" name="IconRank1.png" path="/05MoreOption/"/>
+    <image id="9ih64y" name="IconRank2.png" path="/05MoreOption/"/>
+    <image id="9ih64z" name="IconRank3.png" path="/05MoreOption/"/>
+    <image id="9ih650" name="IconRank4.png" path="/05MoreOption/"/>
+    <image id="9ih651" name="IconRank5.png" path="/05MoreOption/"/>
+    <image id="9ih652" name="IconRank6.png" path="/05MoreOption/"/>
+    <image id="9ih653" name="IconRank7.png" path="/05MoreOption/"/>
+    <image id="9ih654" name="IconWrite.png" path="/05MoreOption/"/>
+    <image id="9ih655" name="ImgRedPoint.png" path="/05MoreOption/"/>
+    <image id="9ih656" name="ImgShare.jpg" path="/05MoreOption/"/>
+    <image id="9ih657" name="TextAnounce.png" path="/05MoreOption/"/>
+    <image id="9ih658" name="TextModify.png" path="/05MoreOption/"/>
+    <image id="9ih659" name="侧拉条 拷贝.jpg" path="/05MoreOption/"/>
+    <image id="9ih65a" name="公告 拷贝.jpg" path="/05MoreOption/"/>
+    <image id="9ih65b" name="公告内容 拷贝.jpg" path="/05MoreOption/"/>
+    <image id="9ih65c" name="奖金榜 拷贝.jpg" path="/05MoreOption/"/>
+    <image id="9ih65d" name="段位榜 拷贝.jpg" path="/05MoreOption/"/>
+    <image id="9ih65e" name="编辑 拷贝.jpg" path="/05MoreOption/"/>
+    <image id="9ih65f" name="财富榜 拷贝.jpg" path="/05MoreOption/"/>
+    <image id="9ih65g" name="ImgRecieved.png" path="/04Invite/"/>
+    <image id="9ih65h" name="邀请 拷贝.jpg" path="/04Invite/"/>
+    <image id="9ih65i" name="邀请.png" path="/04Invite/"/>
+    <image id="9ih65j" name="BoardBonus.png" path="/03Bonus/"/>
+    <image id="9ih65k" name="BoardBonus2.png" path="/03Bonus/"/>
+    <image id="9ih65l" name="BoardTitle.png" path="/03Bonus/"/>
+    <image id="9ih65m" name="BtnB1.png" path="/03Bonus/"/>
+    <image id="9ih65n" name="BtnB2.png" path="/03Bonus/"/>
+    <image id="9ih65o" name="BtnRequest.png" path="/03Bonus/"/>
+    <image id="9ih65p" name="IconJewelBox.png" path="/03Bonus/"/>
+    <image id="9ih65q" name="ImgBig.png" path="/03Bonus/"/>
+    <image id="9ih65r" name="ImgJewelPack.png" path="/03Bonus/"/>
+    <image id="9ih65s" name="ImgOpenGet.png" path="/03Bonus/"/>
+    <image id="9ih65t" name="slice02_02.png" path="/03Bonus/"/>
+    <image id="9ih65u" name="参考图.png" path="/03Bonus/"/>
+    <image id="9ih65v" name="福利看视频 拷贝.jpg" path="/03Bonus/"/>
+    <image id="9ih65w" name="钻石红包 拷贝.jpg" path="/03Bonus/"/>
+    <image id="9ih65x" name="BgCashDraw.png" path="/02WithdrawCash/"/>
+    <image id="9ih65y" name="BgCashDrawLine.png" path="/02WithdrawCash/"/>
+    <image id="9ih65z" name="huakuang.png" path="/02WithdrawCash/"/>
+    <image id="9ih660" name="兑换成功 拷贝.jpg" path="/02WithdrawCash/"/>
+    <image id="9ih661" name="兑换金币 拷贝.jpg" path="/02WithdrawCash/"/>
+    <image id="9ih662" name="红包提现1 拷贝.jpg" path="/02WithdrawCash/"/>
+    <image id="9ih663" name="红包提现2 拷贝.jpg" path="/02WithdrawCash/"/>
+    <image id="9ih666" name="BtnChestBox.png" path="/01MainUi/"/>
+    <image id="9ih667" name="BtnFriendMode.png" path="/01MainUi/"/>
+    <image id="9ih668" name="BtnGetMoney.png" path="/01MainUi/"/>
+    <image id="9ih669" name="BtnGoldMode.png" path="/01MainUi/"/>
+    <image id="9ih66a" name="BtnInvite.png" path="/01MainUi/"/>
+    <image id="9ih66b" name="BtnMoneyMode.png" path="/01MainUi/"/>
+    <image id="9ih66c" name="BtnMore.png" path="/01MainUi/"/>
+    <image id="9ih66d" name="BtnPublic.png" path="/01MainUi/"/>
+    <image id="9ih66e" name="BtnRankMode.png" path="/01MainUi/"/>
+    <image id="9ih66f" name="BtnStart.png" path="/01MainUi/"/>
+    <image id="9ih66g" name="BtnWeal.png" path="/01MainUi/"/>
+    <image id="9ih66h" name="chuangguanduobao.png" path="/01MainUi/"/>
+    <image id="9ih66i" name="IconRedPoint.png" path="/01MainUi/"/>
+    <image id="9ih66k" name="TextFriendMode.png" path="/01MainUi/"/>
+    <image id="9ih66l" name="TextGoldMode.png" path="/01MainUi/"/>
+    <image id="9ih66m" name="TextMoneyMode.png" path="/01MainUi/"/>
+    <image id="9ih66n" name="TextRankMode.png" path="/01MainUi/"/>
+    <image id="9ih66o" name="效果图.jpg" path="/01MainUi/"/>
+    <image id="9ih66r" name="BoardCommonh10.png" path="/00HallCommon/"/>
+    <image id="9ih66s" name="BoardCommonh11.png" path="/00HallCommon/"/>
+    <image id="9ih66t" name="BoardCommonh2.png" path="/00HallCommon/"/>
+    <image id="9ih66u" name="BoardCommonh3.png" path="/00HallCommon/"/>
+    <image id="9ih66v" name="BoardCommonh4.png" path="/00HallCommon/"/>
+    <image id="9ih66w" name="BoardCommonh5.png" path="/00HallCommon/"/>
+    <image id="9ih66x" name="BoardCommonh6.png" path="/00HallCommon/"/>
+    <image id="9ih66y" name="BoardCommonh7.png" path="/00HallCommon/"/>
+    <image id="9ih66z" name="BoardCommonh8.png" path="/00HallCommon/"/>
+    <image id="9ih670" name="BoardCommonh9.png" path="/00HallCommon/"/>
+    <image id="9ih671" name="BoardCommonMore1.png" path="/00HallCommon/"/>
+    <image id="9ih672" name="BoardStageNum.png" path="/00HallCommon/"/>
+    <image id="9ih673" name="BtnAdd.png" path="/00HallCommon/"/>
+    <image id="9ih674" name="BtnCloseGray.png" path="/00HallCommon/"/>
+    <image id="9ih675" name="BtnCloseUnuse.png" path="/00HallCommon/"/>
+    <image id="9ih676" name="BtnCloseUseable.png" path="/00HallCommon/"/>
+    <image id="9ih677" name="BtnNext.png" path="/00HallCommon/"/>
+    <image id="9ih678" name="BtnReturn.png" path="/00HallCommon/"/>
+    <image id="9ih679" name="IconGold.png" path="/00HallCommon/"/>
+    <image id="9ih67a" name="IconGold2.png" path="/00HallCommon/"/>
+    <image id="9ih67b" name="IconGoldBlue.png" path="/00HallCommon/"/>
+    <image id="9ih67c" name="IconGoldWhite.png" path="/00HallCommon/"/>
+    <image id="9ih67d" name="IconJewel2.png" path="/00HallCommon/"/>
+    <image id="9ih67e" name="IconJewelGray.png" path="/00HallCommon/"/>
+    <image id="9ih67f" name="IconJewelWhite.png" path="/00HallCommon/"/>
+    <image id="9ih67g" name="IconNote.png" path="/00HallCommon/"/>
+    <image id="9ih67h" name="IconUser.png" path="/00HallCommon/"/>
+    <image id="9ih67i" name="Imgline.png" path="/00HallCommon/"/>
+    <image id="9ih67j" name="ImgWaiting.png" path="/00HallCommon/"/>
+    <image id="9ih67k" name="LineStageNum.png" path="/00HallCommon/"/>
+    <image id="9ih67l" name="textTips.png" path="/00HallCommon/"/>
+    <image id="9ih67m" name="logo.png" path="/01MainUi/"/>
+    <image id="wvxu5n" name="BgFriend.jpg" path="/02FriendMode/"/>
+    <image id="wvxu5o" name="BoardFriend1.png" path="/02FriendMode/" scale="9grid" scale9grid="22,17,8,6"/>
+    <image id="wvxu5p" name="BoardFriend2.png" path="/02FriendMode/" scale="9grid" scale9grid="15,61,5,29"/>
+    <image id="wvxu5q" name="BoardFriend3.png" path="/02FriendMode/" scale="9grid" scale9grid="8,24,16,48"/>
+    <image id="wvxu5r" name="BoardFriend4.png" path="/02FriendMode/"/>
+    <image id="wvxu5s" name="BoardFriend5.png" path="/02FriendMode/"/>
+    <image id="wvxu5t" name="BtnHistory.png" path="/02FriendMode/"/>
+    <image id="wvxu5u" name="IconMenu.png" path="/02FriendMode/"/>
+    <image id="wvxu5v" name="IconSelect.png" path="/02FriendMode/"/>
+    <image id="wvxu5w" name="IconUnselect.png" path="/02FriendMode/"/>
+    <image id="wvxu5x" name="TextCreate.png" path="/02FriendMode/"/>
+    <image id="wvxu5y" name="TextWin.png" path="/02FriendMode/"/>
+    <image id="wvxu5z" name="创建房间 拷贝.jpg" path="/02FriendMode/"/>
+    <image id="wvxu60" name="历史战绩 拷贝.jpg" path="/02FriendMode/"/>
+    <image id="wvxu61" name="历史战绩.png" path="/02FriendMode/"/>
+    <image id="wvxu62" name="对局排行 拷贝.jpg" path="/02FriendMode/"/>
+    <image id="wvxu63" name="对局排行.png" path="/02FriendMode/"/>
+    <image id="wvxu64" name="胜利结算 拷贝.jpg" path="/02FriendMode/"/>
+    <component id="pmcdam" name="BtnCreatePriv.xml" path="/02FriendMode/" exported="true"/>
+    <component id="jb2ban" name="CreatePrivRoom.xml" path="/"/>
+  </resources>
+  <publish name="MainPack" path="E:\u3dProject\CHWB\DDZ\client\layaFramework\bin\res\external"/>
+</packageDescription>

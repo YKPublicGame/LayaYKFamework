@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="127,72" extention="Button">
+  <controller name="button" pages="0,up,1,down" selected="0"/>
+  <displayList>
+    <image id="n2_wvxu" name="n2" src="wvxu7i" fileName="00Common/BtnOperateYellow.png" xy="0,0"/>
+    <loader id="n1_wvxu" name="icon" xy="3,-7" size="127,72" url="ui://honjxiuewvxu93" align="center" vAlign="middle"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="0.90"/>
+</component>
